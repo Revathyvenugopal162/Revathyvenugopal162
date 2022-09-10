@@ -47,11 +47,7 @@ I am [Revathy Venugopal](https://www.linkedin.com/in/revathy-venugopal-3310b5147
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensor Flow" alt="Tensor Flow" width="40"    height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
-  
 
-</div>
-<div align=center>
-  
 </div>
 <!--
 **Revathyvenugopal162/Revathyvenugopal162** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
