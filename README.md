@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-I am Revathy Venugopal from India, and i did Masters in Automotive Embedded System from ESIGELEC, Rouen, France and currently working as a full type developer in Ansys.
+I am [Revathy Venugopal](https://www.linkedin.com/in/revathy-venugopal-3310b5147/) from India, and i did Masters in Automotive Embedded System from [ESIGELEC](https://www.esigelec.fr/fr) & [MAHE](https://manipal.edu/msis.html). I have experiance in image processing using Tensor Flow API and YOLO.I am currently working as a full type developer for Ansys.
 
 Skills: Python/Tensor flow/C/ROS/CSS 
 
