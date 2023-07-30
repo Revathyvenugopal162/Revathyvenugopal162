@@ -30,7 +30,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
 </div>
 
-## :man_technologist: Skills and Tools
+## :hammer_and_wrench: Software tools
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
