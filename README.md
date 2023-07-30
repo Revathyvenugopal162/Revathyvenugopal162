@@ -1,12 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+there!+👋;I'm+Revathy+Venugopal.&center=true&size=30&color=4C1DBF&width=435" alt="Typing SVG">
-</div>
-
-
-<em>Hi there! I'm [Revathy Venugopal](https://www.linkedin.com/in/revathy-venugopal-3310b5147/), a passionate developer from India with a Master's degree in Automotive Embedded Systems from [ESIGELEC](https://www.esigelec.fr/fr) & [MAHE](https://manipal.edu/msis.html). I have experience in image processing using Tensor Flow API and YOLO. Currently, I work as a full-time developer at Ansys, specializing in Python (PyAnsys).</em>
-
-
-
+![Header](./your-header-image-name.png)
 <div align="center">
   <a href="https://www.linkedin.com/in/revathy-venugopal-3310b5147/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/>
@@ -18,6 +10,12 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" title="GMail"/>
   </a>
 </div>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Revathyvenugopal162&style=flat-square&color=blue" alt="profile visits"/>
+</div></div>
+
+<em>I'm [Revathy Venugopal](https://www.linkedin.com/in/revathy-venugopal-3310b5147/), a passionate developer from India with a Master's degree in Automotive Embedded Systems from [ESIGELEC](https://www.esigelec.fr/fr) & [MAHE](https://manipal.edu/msis.html). I have experience in image processing using Tensor Flow API and YOLO. Currently, I work as a full-time developer at Ansys, specializing in Python (PyAnsys).</em>
+
 
 ## :man_technologist: Software languages
 
@@ -47,11 +45,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensor Flow" alt="Tensor Flow" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
 </div>
 
 ## :bar_chart: GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathyvenugopal162&layout=compact&theme=radical" alt="Top Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Revathyvenugopal162&show_icons=true&hide=stars&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathyvenugopal162&layout=compact&count_private=true" />  
 </div>
 
