@@ -15,8 +15,7 @@
   <a href="mailto:revathyvenugopal162@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="GMail" title="GMail"/>
   </a>
-<img src="https://komarev.com/ghpvc/?username=Revathyvenugopal162&style=flat-square&color=blue" alt="profile visits"/>
-</div></div>
+</div>
 
 ## :man_technologist: Software languages
 
