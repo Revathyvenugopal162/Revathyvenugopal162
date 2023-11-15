@@ -52,7 +52,6 @@
 
 <div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Revathyvenugopal162&show_icons=true&hide=stars&count_private=true&?refresh=1" />
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Revathyvenugopal162&show_icons=true&hide=stars&count_private=true&?refresh=1" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathyvenugopal162&layout=compact&show_icons=true&theme=radical&?refresh=1" />
 </div>
 
