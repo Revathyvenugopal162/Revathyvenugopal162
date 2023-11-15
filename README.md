@@ -52,6 +52,6 @@
 
 <div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Revathyvenugopal162&show_icons=true&hide=stars&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathyvenugopal162&layout=compact&count_private=true" />  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathyvenugopal162&layout=compact&count_private=false" />  
 </div>
 
