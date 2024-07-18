@@ -17,7 +17,7 @@
   </a>
 </div>
 
-## :man_technologist: Software languages
+### :man_technologist: Software languages
 
 <div align=left>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -30,11 +30,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
 </div>
 
-## :hammer_and_wrench: Software tools
+### :hammer_and_wrench: Software tools
 
 <div align=left>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
@@ -48,14 +47,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
 </div>
 
-## :bar_chart: GitHub Stats
+### :bar_chart: GitHub Stats
 
 <div align="center">
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Revathyvenugopal162&show_icons=true&hide=stars&count_private=true&?refresh=1" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathyvenugopal162&layout=compact&show_icons=true&theme=radical&?refresh=1" />
 </div>
 
-## Short CV
+### Short CV
 <a href="https://revathyvenugopal162.github.io/cv/revathy-venugopal.pdf">
 <img src="https://revathyvenugopal162.github.io/cv/revathy-venugopal.png" title="My short cv" alt="Tensor Flow" width="80" height="80"/>&nbsp;
 </a>
