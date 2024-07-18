@@ -4,7 +4,7 @@
 
 *I'm [Revathy Venugopal](https://www.linkedin.com/in/revathy-venugopal-3310b5147/), a passionate developer from India with a Master's degree in Automotive Embedded Systems from [ESIGELEC](https://www.esigelec.fr/fr) & [MAHE](https://manipal.edu/msis.html). I have experience in image processing using Tensor Flow API and YOLO. Currently, I work as a full-time developer at Ansys, specializing in Python (PyAnsys).*
 
-### 🌐 Connect with Me
+### 🌐 *Connect with Me*
 
 <div>
   <a href="https://www.linkedin.com/in/revathy-venugopal-3310b5147/">
@@ -55,7 +55,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathyvenugopal162&amp;layout=compact&amp;show_icons=true&amp;theme=radical&amp;?refresh=1"/>
 </div>
 
-### *Short CV*
+### 📎 *Short CV*
 
 <a href="https://revathyvenugopal162.github.io/cv/revathy-venugopal.pdf"> 
     <img src="https://revathyvenugopal162.github.io/cv/revathy-venugopal.png" title="My short cv" alt="Tensor Flow" width="80" height="80"/>  
