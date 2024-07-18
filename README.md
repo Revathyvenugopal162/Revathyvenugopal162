@@ -55,3 +55,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathyvenugopal162&layout=compact&show_icons=true&theme=radical&?refresh=1" />
 </div>
 
+## Short CV
+<a href="https://revathyvenugopal162.github.io/cv/revathy-venugopal.pdf">
+<img src="https://revathyvenugopal162.github.io/cv/revathy-venugopal.png" title="My short cv" alt="Tensor Flow" width="80" height="80"/>&nbsp;
+</a>
