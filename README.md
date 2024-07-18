@@ -4,7 +4,8 @@
 
 *I'm [Revathy Venugopal](https://www.linkedin.com/in/revathy-venugopal-3310b5147/), a passionate developer from India with a Master's degree in Automotive Embedded Systems from [ESIGELEC](https://www.esigelec.fr/fr) & [MAHE](https://manipal.edu/msis.html). I have experience in image processing using Tensor Flow API and YOLO. Currently, I work as a full-time developer at Ansys, specializing in Python (PyAnsys).*
 
-### Find me on:
+### 🌐 *Connect with Me*
+
 <div>
   <a href="https://www.linkedin.com/in/revathy-venugopal-3310b5147/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" title="LinkedIn"/>
@@ -17,9 +18,9 @@
   </a>
 </div>
 
-## :man_technologist: Software languages
+### 🖥️ *Software languages*
 
-<div align=center>
+<div align=left>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
@@ -30,11 +31,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
 </div>
 
-## :hammer_and_wrench: Software tools
+### 🛠 *Software tools*
 
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
+<div align="left">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="Sqlite" alt="Sqlite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim" alt="vim" width="40" height="40"/>&nbsp;
@@ -48,14 +48,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
 </div>
 
-## :bar_chart: GitHub Stats
+### 🌟*GitHub Statistics*
 
 <div align="center">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Revathyvenugopal162&show_icons=true&hide=stars&count_private=true&?refresh=1" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathyvenugopal162&layout=compact&show_icons=true&theme=radical&?refresh=1" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Revathyvenugopal162&show_icons=true&hide=stars&count_private=true&?refresh=1"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathyvenugopal162&amp;layout=compact&amp;show_icons=true&amp;theme=radical&amp;?refresh=1"/>
 </div>
 
-## Short CV
-<a href="https://revathyvenugopal162.github.io/cv/revathy-venugopal.pdf">
-<img src="https://revathyvenugopal162.github.io/cv/revathy-venugopal.png" title="My short cv" alt="Tensor Flow" width="80" height="80"/>&nbsp;
+### 📎 *Short CV*
+
+<a href="https://revathyvenugopal162.github.io/cv/revathy-venugopal.pdf"> 
+    <img src="https://revathyvenugopal162.github.io/cv/revathy-venugopal.png" title="My short cv" alt="Tensor Flow" width="80" height="80"/>  
 </a>
