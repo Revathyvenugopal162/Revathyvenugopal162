@@ -32,7 +32,7 @@
 - Master's in Automotive Embedded Systems from [ESIGELEC](https://www.esigelec.fr/fr) and [MAHE](https://manipal.edu/msis.html)
 - Experience in image processing using TensorFlow APIs and YOLO
 - Working full-time at Ansys on Python and PyAnsys-based workflows
-- Open to collaboration in Python tooling, simulation automation, and applied AI
+- Open to collaboration in simulation automation, engineering tooling, and applied AI
 
 ---
 
@@ -71,7 +71,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
   <img src="https://img.shields.io/badge/PyVista-blue?style=flat-square&logo=python&logoColor=white" alt="PyVista" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
@@ -97,25 +97,18 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white" alt="Bitbucket" />
-  <img src="https://img.shields.io/badge/pip-3775A9?style=flat-square&logo=pypi&logoColor=white" alt="pip" />
   <img src="https://img.shields.io/badge/Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white" alt="Poetry" />
-  <img src="https://img.shields.io/badge/tox-grey?style=flat-square&logo=python&logoColor=white" alt="tox" />
-  <img src="https://img.shields.io/badge/pre--commit-FAB040?style=flat-square&logo=pre-commit&logoColor=black" alt="pre-commit" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Tox-grey?style=flat-square&logo=python&logoColor=white" alt="Tox" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate" />
   <img src="https://img.shields.io/badge/GitHub%20Apps-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Apps" />
-  <img src="https://img.shields.io/badge/Azure%20Web%20Apps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Web Apps" />
-  <img src="https://img.shields.io/badge/GitHub%20Auth%20App-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Auth App" />
 </p>
 
 ### Currently Learning
@@ -130,5 +123,5 @@
 ## Current Focus
 
 - Scaling Python developer workflows in simulation environments
-- Improving automation and quality for engineering toolchains
-- Advancing computer vision and AI integration for practical use cases
+- Improving reliability with testing, documentation, and reusable tooling
+- Applying computer vision and LLMs to practical engineering use cases
