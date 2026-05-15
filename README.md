@@ -29,21 +29,12 @@
 
 ## Profile Snapshot
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>✨ Highlights</h3>
-      <ul>
-        <li>Master's in Automotive Embedded Systems from <a href="https://www.esigelec.fr/fr">ESIGELEC</a> and <a href="https://manipal.edu/msis.html">MAHE</a></li>
-        <li>Experience in image processing using TensorFlow APIs and YOLO</li>
-        <li>Working full-time at Ansys on Python and PyAnsys-based workflows</li>
-        <li>Open to collaboration in simulation automation, engineering tooling, and applied AI</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### ✨ Highlights
 
----
+- Master's in Automotive Embedded Systems from [ESIGELEC](https://www.esigelec.fr/fr) and [MAHE](https://manipal.edu/msis.html)
+- Experience in image processing using TensorFlow APIs and YOLO
+- Working full-time at Ansys on Python and PyAnsys-based workflows
+- Open to collaboration in simulation automation, engineering tooling, and applied AI
 
 ## GitHub Analytics
 
@@ -59,8 +50,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Revathyvenugopal162&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
 </p>
-
----
 
 ## Tech Stack
 
@@ -136,19 +125,10 @@
   </tr>
 </table>
 
----
-
 ## Current Focus
 
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>🎯 What I Am Focusing On</h3>
-      <ul>
-        <li>Scaling Python developer workflows in simulation environments</li>
-        <li>Improving reliability with testing, documentation, and reusable tooling</li>
-        <li>Applying computer vision and LLMs to practical engineering use cases</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🎯 What I Am Focusing On
+
+- Scaling Python developer workflows in simulation environments
+- Improving reliability with testing, documentation, and reusable tooling
+- Applying computer vision and LLMs to practical engineering use cases
