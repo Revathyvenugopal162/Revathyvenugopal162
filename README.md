@@ -111,6 +111,7 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=powerautomate&logoColor=white" alt="Power Automate" />
   <img src="https://img.shields.io/badge/GitHub%20Apps-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub Apps" />
   <img src="https://img.shields.io/badge/Azure%20Web%20Apps-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure Web Apps" />
