@@ -85,6 +85,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Sphinx-000000?style=flat-square&logo=sphinx&logoColor=white" alt="Sphinx" />
+  <img src="https://img.shields.io/badge/Jinja2-B41717?style=flat-square&logo=jinja&logoColor=white" alt="Jinja2" />
   <img src="https://img.shields.io/badge/Quarto-4287f5?style=flat-square&logo=quarto&logoColor=white" alt="Quarto" />
   <img src="https://img.shields.io/badge/GitHub%20Pages-222222?style=flat-square&logo=githubpages&logoColor=white" alt="GitHub Pages" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
