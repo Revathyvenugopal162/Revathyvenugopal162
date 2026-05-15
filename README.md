@@ -9,17 +9,12 @@ Python Developer at Ansys, focused on PyAnsys, automation, and practical enginee
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Revathyvenugopal162&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&cache_seconds=86400" alt="Revathy's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathyvenugopal162&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Revathyvenugopal162&theme=github" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Revathyvenugopal162&theme=github" alt="Repos per language" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revathyvenugopal162&theme=github" alt="Profile summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Revathyvenugopal162&theme=github" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Revathyvenugopal162&theme=github" alt="Most commit language" />
 </p>
 
 <p align="center">
