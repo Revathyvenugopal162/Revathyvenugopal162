@@ -48,8 +48,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Revathyvenugopal162&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank" rel="noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=Revathyvenugopal162&theme=algolia&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=7" alt="GitHub trophies" />
+  </a>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Revathyvenugopal162&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub overview" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revathyvenugopal162&layout=compact&hide_border=true&card_width=420" alt="Top languages" />
+</p>
+
+> Some profile cards are powered by external services and may occasionally load slowly.
 
 ## Tech Stack
 
