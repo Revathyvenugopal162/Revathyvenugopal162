@@ -1,14 +1,15 @@
+<h1 align="center">Revathy Venugopal</h1>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Revathyvenugopal162.Revathyvenugopal162" alt="visitor badge" />
   <img src="https://img.shields.io/github/followers/Revathyvenugopal162?style=flat-square&logo=github" alt="GitHub followers" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&vCenter=true&width=760&lines=Python+Developer+at+Ansys;PyAnsys+%7C+Simulation+Automation+%7C+Computer+Vision;Building+practical+engineering+workflows+with+Python+and+AI" alt="Typing introduction" />
+  PyAnsys · Simulation Automation · Computer Vision
 </p>
 
 <p align="center">
-  I build reliable engineering tooling that helps teams move faster with automation, simulation, and applied AI.
+  I build Python-based engineering tools that automate simulation workflows, improve reliability, and turn complex tasks into reusable systems.
 </p>
 
 <p align="center">
