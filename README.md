@@ -1,16 +1,15 @@
+<h1 align="center">Revathy Venugopal</h1>
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Revathyvenugopal162.Revathyvenugopal162" alt="visitor badge" />
   <img src="https://img.shields.io/github/followers/Revathyvenugopal162?style=flat-square&logo=github" alt="GitHub followers" />
 </p>
 
-<h1 align="center">Revathy Venugopal</h1>
-
 <p align="center">
-  Python Developer at Ansys | PyAnsys | Simulation Automation | Computer Vision
+  PyAnsys · Simulation Automation · Computer Vision
 </p>
 
 <p align="center">
-  Building practical engineering workflows with Python and AI.
+  I build Python-based engineering tools that automate simulation workflows, improve reliability, and turn complex tasks into reusable systems.
 </p>
 
 <p align="center">
@@ -36,20 +35,12 @@
 - Working full-time at Ansys on Python and PyAnsys-based workflows
 - Open to collaboration in simulation automation, engineering tooling, and applied AI
 
-## GitHub Analytics
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Revathyvenugopal162&theme=github" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Revathyvenugopal162&theme=github" alt="Repos per language" />
-</p>
+## Featured Work
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revathyvenugopal162&theme=github" alt="Profile summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Revathyvenugopal162&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
-</p>
+- Simulation workflow automation using Python and PyAnsys for repeatable engineering pipelines
+- Computer vision prototyping with TensorFlow and OpenCV for practical inspection use cases
+- Developer productivity tooling with FastAPI, documentation pipelines, and test-first reliability
 
 ## Tech Stack
 
@@ -124,6 +115,22 @@
     </td>
   </tr>
 </table>
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Revathyvenugopal162&theme=github" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Revathyvenugopal162&theme=github" alt="Repos per language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Revathyvenugopal162&theme=github" alt="Profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Revathyvenugopal162&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies" />
+</p>
+
 
 ## Current Focus
 
